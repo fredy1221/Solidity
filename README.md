@@ -1,4 +1,12 @@
 # Solidity
+## Part 1
+- introduction
+- basic solidity concepts
+
+## Part 2
+- multiply the zombie army by feeding on other lifeforms.
+- inheritance
+- importing files
 
 ## Part 3
 - added a way to update the CryptoKitties contracts
