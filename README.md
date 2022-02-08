@@ -1,4 +1,4 @@
-# Solidty
+# Solidity
 
 ## Part 3
 - added a way to update the CryptoKitties contracts
