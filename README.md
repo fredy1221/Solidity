@@ -15,3 +15,6 @@
 - added levels and cooldowns to our zombies
 - update a zombie's name and DNA once the zombie gets above a certain level
 - have a function to return a user's zombie army
+
+## Part 4
+- added attack mechanism
